@@ -7,7 +7,7 @@ import maze.Maze;
  * 
  * @author Youhan Xia
  * @author Jeffrey Chan
- * @author Yongli Ren
+ *
  */
 public interface MazeSolver
 {
